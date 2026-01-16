@@ -2,9 +2,9 @@
 
 # Portfolio Website Deployment Script for Ubuntu
 # GitHub Repo URL - REPLACE WITH YOUR OWN REPO LINK
-REPO_URL="https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO.git"
+REPO_URL="https://github.com/danieljacaban37-sys/Special-Final-Project-Guidelines.git"
 # Target directory for website files
-TARGET_DIR="/var/www/html/portfolio"
+TARGET_DIR="/var/www/index.html/portfolio"
 # Apache virtual host config file
 VHOST_FILE="/etc/apache2/sites-available/portfolio.conf"
 
